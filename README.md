@@ -1,2 +1,2 @@
 # Student-Records-Management-System
-A menu-driven Student Record Management System developed in C, featuring CRUD operations (Add, View, Modify, Delete), sorting by Name and Percentage, deletion by Roll Number or Name, file handling for record storage, dynamic memory allocation, and input validation.
+Developed a Student Record Management System with features to add, delete, modify, search, sort, and display student records. Includes automatic roll number assignment and data saving and retrieval across program executions.
